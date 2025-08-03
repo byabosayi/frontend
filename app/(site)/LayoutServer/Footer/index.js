@@ -51,14 +51,14 @@ export default function Footer() {
             <Typography variant="subtitle1">
               Email: info@byabosayi.com | byabosayiofficial@gmail.com
             </Typography>
-            <IconButton
+            {/* <IconButton
               component="a"
               href="https://www.facebook.com/byabosayi"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Facebook />
-            </IconButton>
+            </IconButton> */}
           </Grid>
         </Grid>
 
