@@ -8,7 +8,7 @@ export default function Page() {
     <Section sx={{minHeight: '100vh'}}>
       <Card
         sx={{
-          minHeight: '30vh',
+          minHeight: '70vh',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
