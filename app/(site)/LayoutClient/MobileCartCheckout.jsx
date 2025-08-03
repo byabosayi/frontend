@@ -1,13 +1,15 @@
 'use client'
+
+import {selectSubTotal, selectTotalQty} from '@/libs/redux/selectors/cart'
 import {AppBar, Button, Stack, Toolbar} from '@mui/material'
 import {useSelector} from 'react-redux'
 
 export default function MobileCartCheckout() {
-  // Show only if cart is not empty
-  //   const cart = useSelector((state) => state.cart.items)
-  const cart = null // Not null
+  const cart = useSelector((state) => state.cart.items)
+  const totalQty = useSelector(selectTotalQty)
+  const subTotal = useSelector(selectSubTotal)
 
-  return cart === null ? (
+  return totalQty > 0 ? (
     <AppBar
       position="fixed"
       sx={{
@@ -45,7 +47,7 @@ export default function MobileCartCheckout() {
               wordBreak: 'break-all',
             }}
           >
-            Cart(100)
+            Cart({totalQty})
           </Button>
 
           <Button
@@ -61,7 +63,7 @@ export default function MobileCartCheckout() {
               wordBreak: 'break-all',
             }}
           >
-            Checkout(35000৳)
+            Checkout({subTotal}৳)
           </Button>
         </Stack>
       </Toolbar>
