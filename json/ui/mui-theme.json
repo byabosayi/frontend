@@ -1,0 +1,69 @@
+{
+  "breakpoints": {
+    "values": {
+      "xs": 0,
+      "sm": 600,
+      "md": 900,
+      "lg": 1200,
+      "xl": 1536,
+      "xxl": 1600
+    }
+  },
+  "colors": {
+    "light": {
+      "background": {
+        "default": "#f5f7fa",
+        "paper": "#ffffff"
+      },
+      "primary": {"main": "#71b638", "contrastText": "#fff"},
+      "secondary": {"main": "#a1c934", "contrastText": "#fff"},
+      "text": {
+        "primary": "#566576",
+        "secondary": "#293745"
+      }
+    },
+    "dark": {
+      "background": {
+        "default": "#030712",
+        "paper": "#171c2b"
+      },
+      "primary": {"main": "#71b638", "contrastText": "#fff"},
+      "secondary": {"main": "#a1c934", "contrastText": "#fff"},
+      "text": {
+        "primary": "#c7cad4",
+        "secondary": "#f7f9ff"
+      }
+    }
+  },
+  "typography": {
+    "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)",
+    "fontWeightBold": 600,
+    "h1": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "h2": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "h3": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "h4": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "h5": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "h6": {"fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"},
+    "subtitle1": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "subtitle2": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "body1": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "body2": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "button": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "caption": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    },
+    "overline": {
+      "fontFamily": "var(--font-outfit), var(--font-hind-siliguri)"
+    }
+  }
+}

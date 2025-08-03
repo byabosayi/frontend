@@ -1,0 +1,41 @@
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.MuiButton-root {
+  text-transform: capitalize !important;
+  font-family: var(--font-outfit), var(--font-hind-siliguri) !important;
+  font-weight: 400 !important;
+}
+
+.MuiButton-root.Mui-disabled {
+  text-shadow: none !important;
+}
+
+.MuiButton-contained {
+  box-shadow: none !important;
+  letter-spacing: 0.5px !important;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2) !important;
+}
+
+.MuiButton-sizeLarge {
+  font-size: 17px !important; /* Original: 15px */
+  padding: 6px 17px !important; /* Original: 8px 22px */
+}
+
+.MuiButton-sizeMedium {
+  font-size: 16px !important; /* Original: 14px */
+  padding: 4px 13px !important; /* Original: 6px 16px */
+}
+
+.MuiButton-sizeSmall {
+  font-size: 15px !important; /* Original: 13px */
+  padding: 2.5px 11px !important; /* Original: 4px 10px */
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

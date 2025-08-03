@@ -1,0 +1,38 @@
+{
+  "appbar": {
+    "create_free_website": "ফ্রী ওয়েবসাইট তৈরি করুন",
+    "edit_website": "ওয়েবসাইট ইডিট করুন",
+    "create_new_website": "নতুন ওয়েবসাইট তৈরি করুন",
+    "already_have_website": "ইতিমধ্যে ওয়েবসাইট তৈরি করেছেন?",
+    "search_website": "ওয়েবসাইট খুঁজতে টাইপ করুন",
+    "see_wholesale_products": "পাইকারি পণ্য দেখুন",
+
+    "wholesale_products": "পাইকারি পণ্য",
+    "dropshipping": "ড্রপশিপিং",
+    "auctions": "নিলাম",
+    "digital_marketing": "মার্কেটিং",
+    "themes": "থিম",
+    "invest": "বিনিয়োগ",
+    "domain": "ডোমেইন",
+
+    "account": "একাউন্ট",
+    "logout": "লগ আউট",
+    "login": "লগিন",
+    "register": "রেজিস্টার",
+
+    "got_to_cart": "কার্ট দেখুন",
+
+    "enable_light_mode": "লাইট মুড অন করুন",
+    "enable_dark_mode": "ডার্ক মুড অন করুন",
+    "change_language": "ভাষা পরিবর্তন করুন",
+
+    "dropship_products": "ড্রপশিপ পণ্য",
+    "investable_businesses": "বিনিয়োগ যোগ্য ব্যবসা"
+  },
+  "footer": {},
+  "no_results_found": "কোন কিছু পাওয়া যায়নি",
+  "see_another": "অন্যান্য দেখুন",
+  "search_anything": "সার্চ করুন",
+  "type_to_search": "সার্চ করতে টাইপ করুন",
+  "search_by": "সার্চের ধরণ"
+}

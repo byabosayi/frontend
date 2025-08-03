@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "singleAttributePerLine": true,
+  "bracketSpacing": false,
+  "importOrder": ["^@mui/", "^[a-zA-Z]"],
+  "importOrderSeparation": true
+}

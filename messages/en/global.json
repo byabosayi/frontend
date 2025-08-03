@@ -1,0 +1,38 @@
+{
+  "appbar": {
+    "create_free_website": "Create Free Website",
+    "edit_website": "Edit Website",
+    "create_new_website": "Create New Website",
+    "already_have_website": "Already have a website?",
+    "search_website": "Type to search website",
+    "see_wholesale_products": "Wholesale Products",
+
+    "wholesale_products": "Wholesale",
+    "dropshipping": "Dropship",
+    "auctions": "Auction",
+    "digital_marketing": "Marketing",
+    "themes": "Theme",
+    "invest": "Invest",
+    "domain": "Domain",
+
+    "account": "Account",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+
+    "got_to_cart": "Go To Cart",
+
+    "enable_light_mode": "Enable Light Mode",
+    "enable_dark_mode": "Enable Dark Mode",
+    "change_language": "Change Language",
+
+    "dropship_products": "Dropship Products",
+    "investable_businesses": "Investable Businesses"
+  },
+  "footer": {},
+  "no_results_found": "No results found",
+  "see_another": "See another",
+  "search_anything": "Search anything",
+  "type_to_search": "Type to search",
+  "search_by": "Search by"
+}
