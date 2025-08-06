@@ -3,7 +3,7 @@ import {cookies} from 'next/headers'
 
 export default getRequestConfig(async () => {
   const c = cookies().get('NEXT_LOCALE')?.value
-  const locale = c ?? 'en' // fallback
+  const locale = c ?? 'bn' // fallback
 
   // load *all* JSON files for that locale
   const messages = {
